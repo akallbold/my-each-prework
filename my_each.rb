@@ -5,4 +5,5 @@ counter=0
     yield(i)
     counter +=1
   end
+  array
 end
